@@ -1,0 +1,10 @@
+{"error":{"code":102,"message":"Invalid parameter for query: {\"name\": \"Daniel Cunha\"}"},"level":"error","message":"Error handling request: ParseError {\n  code: 102,\n  message: 'Invalid parameter for query: {\"name\": \"Daniel Cunha\"}' }","timestamp":"2017-06-19T12:27:36.032Z"}
+{"code":102,"message":"Invalid parameter for query: {\"name\": \"Daniel Cunha\"}","level":"error","timestamp":"2017-06-19T12:27:36.035Z"}
+{"error":{"code":102,"message":"Invalid parameter for query: {\"name\": \"Daniel Cunha\"}"},"level":"error","message":"Error handling request: ParseError {\n  code: 102,\n  message: 'Invalid parameter for query: {\"name\": \"Daniel Cunha\"}' }","timestamp":"2017-06-19T12:27:38.981Z"}
+{"code":102,"message":"Invalid parameter for query: {\"name\": \"Daniel Cunha\"}","level":"error","timestamp":"2017-06-19T12:27:38.982Z"}
+{"error":{"code":102,"message":"Invalid parameter for query: {\"objectId\": \"OU7GSD4dp5\"}"},"level":"error","message":"Error handling request: ParseError {\n  code: 102,\n  message: 'Invalid parameter for query: {\"objectId\": \"OU7GSD4dp5\"}' }","timestamp":"2017-06-19T12:32:05.355Z"}
+{"code":102,"message":"Invalid parameter for query: {\"objectId\": \"OU7GSD4dp5\"}","level":"error","timestamp":"2017-06-19T12:32:05.357Z"}
+{"error":{"code":102,"message":"Invalid parameter for query: {\"objectId\": \"OU7GSD4dp5\"}"},"level":"error","message":"Error handling request: ParseError {\n  code: 102,\n  message: 'Invalid parameter for query: {\"objectId\": \"OU7GSD4dp5\"}' }","timestamp":"2017-06-19T12:32:35.576Z"}
+{"code":102,"message":"Invalid parameter for query: {\"objectId\": \"OU7GSD4dp5\"}","level":"error","timestamp":"2017-06-19T12:32:35.576Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2017-06-19T12:35:20.372Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2017-06-19T12:35:20.373Z"}

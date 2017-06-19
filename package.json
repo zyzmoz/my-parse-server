@@ -1,0 +1,16 @@
+{
+  "name": "my-parse-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Cunha",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "parse-dashboard": "^1.0.28",
+    "parse-server": "^2.4.2"
+  }
+}
